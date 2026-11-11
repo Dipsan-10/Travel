@@ -1,0 +1,6 @@
+{
+  "name": "Nepa Travel",
+  "description": "ネパール観光・ヒマラヤトレッキング専門の旅行エージェントサイト。カトマンズ世界遺産、ポカラ湖畔リゾート、釈迦生誕地ルンビニ、ドルパタン野生動物保護区など日本人向けに特別に監修されたツアーパック、口コミレビュー、フォトギャラリー、簡易アカウント、お問い合わせを搭載したフルスタックサイトです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
